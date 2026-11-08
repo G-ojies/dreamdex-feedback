@@ -1,0 +1,1 @@
+{"name":"dreamdex-feedback","private":true,"type":"module","dependencies":{"@somnia-chain/markets-sdk":"^0.32.1","dotenv":"^18.0.9","tsx":"^4.23.15","viem":"^2.57.17"},"devDependencies":{"@types/node":"^20.19.43","typescript":"^5.9.3"}}
